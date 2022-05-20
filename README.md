@@ -22,3 +22,4 @@ Comparto dos enlaces relacionados a *Markdown*:
 > PD: El trabajo práctico será entregado en el Campus de la UNRN.
 
 **Saludos!!**
+![Badge](https://bit.ly/icom-badge)
