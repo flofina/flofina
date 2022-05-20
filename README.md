@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hola!! 👋
 
-<!--
-**flofina/flofina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Florencia :woman:, soy estudiante de la **Universidad Nacional de Río Negro**:school:, de la carrera de **Ingeniería en Computación**:floppy_disk:.
 
-Here are some ideas to get you started:
+Estoy realizando un trabajo práctico relacionado a *Markdown*, donde se abarcan los siguientes temas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* historia de sistemas de control de versiones
+* historia de git
+* herramientas
+  * grep
+  * sed
+  * regex
+* Github
+  * crear repositorio
+  * crear README.md
+
+Comparto dos enlaces relacionados a *Markdown*:
+
+<https://www.markdownguide.org/>  
+<https://www.argentina.gob.ar/contenidosdigitales/markdown>
+
+> PD: El trabajo práctico será entregado en el Campus de la UNRN.
+
+**Saludos!!**
