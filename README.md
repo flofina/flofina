@@ -23,3 +23,4 @@ Comparto dos enlaces relacionados a *Markdown*:
 
 **Saludos!!**
 ![Badge](https://bit.ly/icom-badge)
+![Badge](https://bit.ly/icom-badge)
